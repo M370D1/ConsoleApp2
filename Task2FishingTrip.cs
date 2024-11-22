@@ -2,7 +2,7 @@
 
 namespace ConsoleApp2
 {
-    internal class Task2FishingTrip // Fishing Trip Calculatio
+    internal class Task2FishingTrip // Fishing Trip Calculation
     {
         public static void Execute()
         {
